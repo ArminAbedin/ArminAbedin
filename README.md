@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ArminAbedin
-- 👀 I’m interested in os and programming
-- 🌱 I’m currently learning Python and Linux
-- 📫 Reach me with abedinarmin683@gmail.com
+Interested in programming and OS
 
 <!---
 ArminAbedin/ArminAbedin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
